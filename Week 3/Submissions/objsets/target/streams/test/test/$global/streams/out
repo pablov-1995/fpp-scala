@@ -1,0 +1,25 @@
+[debug] javaOptions: Vector()
+[debug] Forking tests - parallelism = false
+[debug] Create a single-thread test executor
+[debug] Runner for com.novocode.junit.JUnitFramework produced 1 initial tasks for 1 tests.
+[debug]   Running TaskDef(objsets.TweetSetSuite, sbt.ForkMain$AnnotatedFingerscan@4e383f42, false, [SuiteSelector])
+[info] Test run started
+[info] Test objsets.TweetSetSuite.filter: a on set5 started
+[debug] Test objsets.TweetSetSuite.filter: a on set5 finished, took 0.406 sec
+[info] Test objsets.TweetSetSuite.filter: on empty set started
+[debug] Test objsets.TweetSetSuite.filter: on empty set finished, took 0.032 sec
+[info] Test objsets.TweetSetSuite.union: set4c and set4d started
+[debug] Test objsets.TweetSetSuite.union: set4c and set4d finished, took 0.031 sec
+[info] Test objsets.TweetSetSuite.descending: set5 started
+[debug] Test objsets.TweetSetSuite.descending: set5 finished, took 0.015 sec
+[info] Test objsets.TweetSetSuite.union: with empty set1 started
+[debug] Test objsets.TweetSetSuite.union: with empty set1 finished, took 0.032 sec
+[info] Test objsets.TweetSetSuite.union: with empty set2 started
+[debug] Test objsets.TweetSetSuite.union: with empty set2 finished, took 0.0 sec
+[info] Test objsets.TweetSetSuite.filter: twenty on set5 started
+[debug] Test objsets.TweetSetSuite.filter: twenty on set5 finished, took 0.015 sec
+[info] Test objsets.TweetSetSuite.mostRetweeted: on set5 started
+[debug] Test objsets.TweetSetSuite.mostRetweeted: on set5 finished, took 0.0 sec
+[info] Test run finished: 0 failed, 0 ignored, 8 total, 0.812s
+[debug]     Produced 0 nested tasks and 8 events.
+[debug] Summary for JUnit not available.

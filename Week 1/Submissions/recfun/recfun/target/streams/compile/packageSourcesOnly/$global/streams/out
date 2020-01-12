@@ -1,0 +1,7 @@
+[info] Packaging C:\Users\Pablo\Documents\MOOCs\Scala_Coursera_1-5\Week 1\Submissions\recfun\recfun\target\scala-2.13\progfun1-recfun_2.13-0.1.0-SNAPSHOT-sources.jar ...
+[debug] Input file mappings:
+[debug] 	recfun\RecFun.scala
+[debug] 	  C:\Users\Pablo\Documents\MOOCs\Scala_Coursera_1-5\Week 1\Submissions\recfun\recfun\src\main\scala\recfun\RecFun.scala
+[debug] 	recfun\RecFunInterface.scala
+[debug] 	  C:\Users\Pablo\Documents\MOOCs\Scala_Coursera_1-5\Week 1\Submissions\recfun\recfun\src\main\scala\recfun\RecFunInterface.scala
+[info] Done packaging.
