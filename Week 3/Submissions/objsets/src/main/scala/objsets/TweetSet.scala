@@ -138,14 +138,8 @@ class NonEmpty(elem: Tweet, left: TweetSet, right: TweetSet) extends TweetSet {
   def emptyCheck = false
 
   def filterAcc(p: Tweet => Boolean, acc: TweetSet): TweetSet = {
-    if (p(elem)) {
-      left.filterAcc(p, acc.incl(elem))
-      right.filterAcc(p, acc.incl(elem))
-    }
-    else {
-      left.filterAcc(p, acc)
-      right.filterAcc(p, acc)
-    }
+    if (p(elem)) left.filterAcc(p, right.filterAcc(p, acc.incl(elem)))
+    else left.filterAcc(p, right.filterAcc(p, acc))
   }
 
   def mostRetweeted: Tweet = {

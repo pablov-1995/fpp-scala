@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b1709dc-9d55-4bd8-bcf6-5cb2167a0252" name="Default Changelist" comment="" />
+    <list default="true" id="0b1709dc-9d55-4bd8-bcf6-5cb2167a0252" name="Default Changelist" comment="Finished assignment 3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +28,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1WArdW1RF0EAfjnx4IvFWS2KJcw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />

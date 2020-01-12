@@ -1,2 +1,2 @@
-[debug] Subclass fingerprints: List((junit.framework.TestCase,false,com.novocode.junit.JUnit3Fingerprint@6de40076))
-[debug] Annotation fingerprints: List((org.junit.runner.RunWith,false,com.novocode.junit.RunWithFingerprint@59ab51ac), (org.junit.Test,false,com.novocode.junit.JUnitFingerprint@40c34979))
+[debug] Subclass fingerprints: List((junit.framework.TestCase,false,com.novocode.junit.JUnit3Fingerprint@2aff3d01))
+[debug] Annotation fingerprints: List((org.junit.runner.RunWith,false,com.novocode.junit.RunWithFingerprint@7a89d4de), (org.junit.Test,false,com.novocode.junit.JUnitFingerprint@646058df))
