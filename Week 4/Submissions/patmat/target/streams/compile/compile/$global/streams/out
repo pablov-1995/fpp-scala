@@ -1,0 +1,7 @@
+[debug] Acquiring lock on file C:\Users\Pablo\Documents\MOOCs\Scala_Coursera_1-5\Week 4\Submissions\patmat\project\target\.sbt-compilation-infos\patmat-compile\.sbt-idea-lock ...
+[warn] C:\Users\Pablo\Documents\MOOCs\Scala_Coursera_1-5\Week 4\Submissions\patmat\src\main\scala\patmat\Huffman.scala:227:70: match may not be exhaustive.
+[warn] It would fail on the following input: Nil
+[warn]     def convertChars(tree: CodeTree, chars: List[Char]): CodeTable = chars match {
+[warn]                                                                      ^
+[warn] one warning found
+[debug] Releasing lock on file C:\Users\Pablo\Documents\MOOCs\Scala_Coursera_1-5\Week 4\Submissions\patmat\project\target\.sbt-compilation-infos\patmat-compile\.sbt-idea-lock.

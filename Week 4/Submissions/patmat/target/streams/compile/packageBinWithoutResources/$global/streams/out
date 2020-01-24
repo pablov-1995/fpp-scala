@@ -1,0 +1,23 @@
+[info] Packaging C:\Users\Pablo\Documents\MOOCs\Scala_Coursera_1-5\Week 4\Submissions\patmat\target\scala-2.13\progfun1-patmat-without-resources_2.13-0.1.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	patmat\HuffmanInterface.class
+[debug] 	  C:\Users\Pablo\Documents\MOOCs\Scala_Coursera_1-5\Week 4\Submissions\patmat\target\scala-2.13\classes\patmat\HuffmanInterface.class
+[debug] 	patmat\Fork$.class
+[debug] 	  C:\Users\Pablo\Documents\MOOCs\Scala_Coursera_1-5\Week 4\Submissions\patmat\target\scala-2.13\classes\patmat\Fork$.class
+[debug] 	patmat\Fork.class
+[debug] 	  C:\Users\Pablo\Documents\MOOCs\Scala_Coursera_1-5\Week 4\Submissions\patmat\target\scala-2.13\classes\patmat\Fork.class
+[debug] 	patmat\CodeTree.class
+[debug] 	  C:\Users\Pablo\Documents\MOOCs\Scala_Coursera_1-5\Week 4\Submissions\patmat\target\scala-2.13\classes\patmat\CodeTree.class
+[debug] 	patmat\Huffman.class
+[debug] 	  C:\Users\Pablo\Documents\MOOCs\Scala_Coursera_1-5\Week 4\Submissions\patmat\target\scala-2.13\classes\patmat\Huffman.class
+[debug] 	patmat\Leaf$.class
+[debug] 	  C:\Users\Pablo\Documents\MOOCs\Scala_Coursera_1-5\Week 4\Submissions\patmat\target\scala-2.13\classes\patmat\Leaf$.class
+[debug] 	patmat\Leaf.class
+[debug] 	  C:\Users\Pablo\Documents\MOOCs\Scala_Coursera_1-5\Week 4\Submissions\patmat\target\scala-2.13\classes\patmat\Leaf.class
+[debug] 	patmat\Huffman$.class
+[debug] 	  C:\Users\Pablo\Documents\MOOCs\Scala_Coursera_1-5\Week 4\Submissions\patmat\target\scala-2.13\classes\patmat\Huffman$.class
+[debug] 	patmat\scratch.sc
+[debug] 	  C:\Users\Pablo\Documents\MOOCs\Scala_Coursera_1-5\Week 4\Submissions\patmat\target\scala-2.13\classes\patmat\scratch.sc
+[debug] 	patmat
+[debug] 	  C:\Users\Pablo\Documents\MOOCs\Scala_Coursera_1-5\Week 4\Submissions\patmat\target\scala-2.13\classes\patmat
+[info] Done packaging.

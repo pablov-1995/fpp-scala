@@ -1,0 +1,54 @@
+[debug] 
+[debug] Initial source changes: 
+[debug] 	removed:Set()
+[debug] 	added: Set()
+[debug] 	modified: Set(C:\Users\Pablo\Documents\MOOCs\Scala_Coursera_1-5\Week 4\Submissions\patmat\src\main\scala\patmat\Huffman.scala)
+[debug] Invalidated products: Set(C:\Users\Pablo\Documents\MOOCs\Scala_Coursera_1-5\Week 4\Submissions\patmat\target\scala-2.13\classes\patmat\Fork$.class, C:\Users\Pablo\Documents\MOOCs\Scala_Coursera_1-5\Week 4\Submissions\patmat\target\scala-2.13\classes\patmat\Fork.class, C:\Users\Pablo\Documents\MOOCs\Scala_Coursera_1-5\Week 4\Submissions\patmat\target\scala-2.13\classes\patmat\CodeTree.class, C:\Users\Pablo\Documents\MOOCs\Scala_Coursera_1-5\Week 4\Submissions\patmat\target\scala-2.13\classes\patmat\Huffman.class, C:\Users\Pablo\Documents\MOOCs\Scala_Coursera_1-5\Week 4\Submissions\patmat\target\scala-2.13\classes\patmat\Leaf$.class, C:\Users\Pablo\Documents\MOOCs\Scala_Coursera_1-5\Week 4\Submissions\patmat\target\scala-2.13\classes\patmat\Leaf.class, C:\Users\Pablo\Documents\MOOCs\Scala_Coursera_1-5\Week 4\Submissions\patmat\target\scala-2.13\classes\patmat\Huffman$.class)
+[debug] External API changes: API Changes: Set()
+[debug] Modified binary dependencies: Set()
+[debug] Initial directly invalidated classes: Set(patmat.Leaf, patmat.CodeTree, patmat.Fork, patmat.Huffman)
+[debug] 
+[debug] Sources indirectly invalidated by:
+[debug] 	product: Set(C:\Users\Pablo\Documents\MOOCs\Scala_Coursera_1-5\Week 4\Submissions\patmat\src\main\scala\patmat\Huffman.scala)
+[debug] 	binary dep: Set()
+[debug] 	external source: Set()
+[debug] All initially invalidated classes: Set(patmat.Leaf, patmat.CodeTree, patmat.Fork, patmat.Huffman)
+[debug] All initially invalidated sources:Set(C:\Users\Pablo\Documents\MOOCs\Scala_Coursera_1-5\Week 4\Submissions\patmat\src\main\scala\patmat\Huffman.scala)
+[info] Compiling 1 Scala source to C:\Users\Pablo\Documents\MOOCs\Scala_Coursera_1-5\Week 4\Submissions\patmat\target\scala-2.13\classes ...
+[debug] Getting org.scala-sbt:compiler-bridge_2.13:1.2.5:compile for Scala 2.13.0
+[debug] Getting org.scala-sbt:compiler-bridge_2.13:1.2.5:compile for Scala 2.13.0
+[debug] [zinc] Running cached compiler 33943ee9 for Scala compiler version 2.13.0
+[debug] [zinc] The Scala compiler is invoked with:
+[debug] 	-language:implicitConversions
+[debug] 	-deprecation
+[debug] 	-bootclasspath
+[debug] 	C:\Users\Pablo\Documents\MOOCs\Scala_Coursera_1-5\Week 4\Submissions\patmat\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.0\scala-library-2.13.0.jar
+[debug] 	-classpath
+[debug] 	C:\Users\Pablo\Documents\MOOCs\Scala_Coursera_1-5\Week 4\Submissions\patmat\target\scala-2.13\classes
+[debug] Scala compilation took 1.7311445 s
+[info] Done compiling.
+[debug] Invalidating (transitively) by inheritance from patmat.Leaf...
+[debug] Initial set of included nodes: Set(patmat.Leaf)
+[debug] Invalidated by transitive inheritance dependency: Set(patmat.Leaf)
+[debug] None of the modified names appears in source file of patmat.HuffmanInterface. This dependency is not being considered for invalidation.
+[debug] Change NamesChange(patmat.Leaf,ModifiedNames(changes = UsedName(finalize,[Default]), UsedName(notifyAll,[Default]))) invalidates 1 classes due to The patmat.Leaf has the following regular definitions changed:
+[debug] 	UsedName(finalize,[Default]), UsedName(notifyAll,[Default]).
+[debug] 	> by transitive inheritance: Set(patmat.Leaf)
+[debug] 	> 
+[debug] 	> 
+[debug]         
+[debug] Invalidating (transitively) by inheritance from patmat.Huffman...
+[debug] Initial set of included nodes: Set(patmat.Huffman)
+[debug] Invalidated by transitive inheritance dependency: Set(patmat.Huffman)
+[debug] Change NamesChange(patmat.Huffman,ModifiedNames(changes = UsedName(finalize,[Default]), UsedName(notifyAll,[Default]))) invalidates 1 classes due to The patmat.Huffman has the following regular definitions changed:
+[debug] 	UsedName(finalize,[Default]), UsedName(notifyAll,[Default]).
+[debug] 	> by transitive inheritance: Set(patmat.Huffman)
+[debug] 	> 
+[debug] 	> 
+[debug]         
+[debug] New invalidations:
+[debug] 	Set()
+[debug] Initial set of included nodes: Set()
+[debug] Previously invalidated, but (transitively) depend on new invalidations:
+[debug] 	Set()
+[debug] All newly invalidated classes after taking into account (previously) recompiled classes:Set()
